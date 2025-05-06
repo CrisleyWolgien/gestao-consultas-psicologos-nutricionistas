@@ -39,11 +39,7 @@ gestao-consultas-psicologos-nutricionistas/
 - Node.js + npm
 - Git
 
-###Frontend (React + Vite)
 
-cd frontend
-npm install
-npm run dev
 
 ### Backend (FastAPI)
 
@@ -54,4 +50,9 @@ source venv/bin/activate
 pip install fastapi uvicorn
 uvicorn main:app --reload
 
+### Frontend (React + Vite)
+
+cd frontend
+npm install
+npm run dev
 
