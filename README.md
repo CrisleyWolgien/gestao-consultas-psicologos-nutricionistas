@@ -1,2 +1,12 @@
-# gestao-consultas-psicologos-nutricionistas
-Criar uma aplicação web que ajude psicólogos e nutricionistas a gerenciar seus atendimentos, com foco na organização de pacientes, consultas e histórico de evolução.
+# Gestão de Consultas para Psicólogos e Nutricionistas
+
+## Tecnologias
+- FastAPI (Backend)
+- React + Vite + TailwindCSS (Frontend)
+
+## Objetivo
+Sistema SaaS para profissionais da saúde com funcionalidades básicas como agendamento, cadastro de pacientes e histórico.
+
+## Como rodar localmente
+(Em breve)
+
