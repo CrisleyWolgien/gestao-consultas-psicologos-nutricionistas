@@ -49,10 +49,13 @@ python -m venv venv
 source venv/bin/activate
 pip install fastapi uvicorn
 uvicorn main:app --reload
+```
 
 ### Frontend (React + Vite)
 
+```bash
 cd frontend
 npm install
 npm run dev
+``
 
