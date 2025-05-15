@@ -6,4 +6,3 @@ load_dotenv()
 database_url = os.getenv("DATABASE_URL")
 
 
-
